@@ -7,11 +7,11 @@ package com.mycompany.petshop;
 
 /**
  *
- * @author DORIVAL LOMBISANI JUNIOR, 1806805 
-           FÁBIO ANTONIO FERREIRA, 1820105 
-           FABIO IOVENI LAVANDOSCKI, 1812108 
-           JULIANO DOS SANTOS, 1806481 
-           NICOLAS VOGIANTZIS, 1820026 
+ * @author DORIVAL LOMBISANI JUNIOR, 
+           FÁBIO ANTONIO FERREIRA, 
+           FABIO IOVENI LAVANDOSCKI, 
+           JULIANO DOS SANTOS, 
+           NICOLAS VOGIANTZIS, 
            RENAN RODRIGUES
  */
 public class PetShop {
